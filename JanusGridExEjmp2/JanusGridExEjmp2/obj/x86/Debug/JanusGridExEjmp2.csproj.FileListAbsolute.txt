@@ -1,0 +1,9 @@
+C:\Users\lol XD\Documents\GitHub\JanusGridExEjmp2\JanusGridExEjmp2\JanusGridExEjmp2\bin\Debug\JanusGridExEjmp2.exe.config
+C:\Users\lol XD\Documents\GitHub\JanusGridExEjmp2\JanusGridExEjmp2\JanusGridExEjmp2\bin\Debug\JanusGridExEjmp2.exe
+C:\Users\lol XD\Documents\GitHub\JanusGridExEjmp2\JanusGridExEjmp2\JanusGridExEjmp2\bin\Debug\JanusGridExEjmp2.pdb
+C:\Users\lol XD\Documents\GitHub\JanusGridExEjmp2\JanusGridExEjmp2\JanusGridExEjmp2\obj\x86\Debug\JanusGridExEjmp2.Form1.resources
+C:\Users\lol XD\Documents\GitHub\JanusGridExEjmp2\JanusGridExEjmp2\JanusGridExEjmp2\obj\x86\Debug\JanusGridExEjmp2.Properties.Resources.resources
+C:\Users\lol XD\Documents\GitHub\JanusGridExEjmp2\JanusGridExEjmp2\JanusGridExEjmp2\obj\x86\Debug\JanusGridExEjmp2.csproj.GenerateResource.Cache
+C:\Users\lol XD\Documents\GitHub\JanusGridExEjmp2\JanusGridExEjmp2\JanusGridExEjmp2\obj\x86\Debug\JanusGridExEjmp2.exe.licenses
+C:\Users\lol XD\Documents\GitHub\JanusGridExEjmp2\JanusGridExEjmp2\JanusGridExEjmp2\obj\x86\Debug\JanusGridExEjmp2.exe
+C:\Users\lol XD\Documents\GitHub\JanusGridExEjmp2\JanusGridExEjmp2\JanusGridExEjmp2\obj\x86\Debug\JanusGridExEjmp2.pdb
